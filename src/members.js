@@ -45,7 +45,7 @@ const members = [
   },
   {
     name: "현지",
-    image: "/images/hyunji.jpg",
+    image: "public/현지.png",
     letter: `진일 멘토님께
 
 멘토님, 안녕하세요 :)
