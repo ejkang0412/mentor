@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "https://ejkang0412.github.io/mentor/static/js/main.78ce9222.js",
+    "main.js": "https://ejkang0412.github.io/mentor/static/js/main.c21ae499.js",
     "index.html": "https://ejkang0412.github.io/mentor/index.html",
-    "main.78ce9222.js.map": "https://ejkang0412.github.io/mentor/static/js/main.78ce9222.js.map"
+    "main.c21ae499.js.map": "https://ejkang0412.github.io/mentor/static/js/main.c21ae499.js.map"
   },
   "entrypoints": [
-    "static/js/main.78ce9222.js"
+    "static/js/main.c21ae499.js"
   ]
 }
